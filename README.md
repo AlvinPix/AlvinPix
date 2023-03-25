@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [Ghost-script](https://github.com/AlvinPix/Ghost-script.git)<br>🔭 I’m currently working on [Dotfiles](https://github.com/AlvinPix/dotfiles.git)<br>🤔 I’m looking for help with the following languages ​​Python, bash shell, CSS, HTML<br>🌱 I’m currently learning ​​Python, bash shell, CSS, HTML<br>💬 Ask me about: > Linux distributions like Debian, Kali linu, Arch, Ubuntu<br>⚡ Fun fact: > Why don't scientists trust atoms? - Because they make up everything!<br>💀 Fun fact: > Why don't skeletons fight each other? - They don't have the guts!<br>😄 Pronouns: > usr/bin/whoami <br>📢 Pronouns: > rm -rf /<br>📫 How to reach me: > Devnull@gmail  <br>🎉 CONGRATULATIONS ON READING THE README<br><br><br><br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alvin.gonzalez.12139) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvinpxgonzalez) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@alvinpix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AlvinPix) 
 
@@ -20,7 +19,6 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AlvinPix&icon=9&color=12)](https://visitcount.itsvg.in)
 

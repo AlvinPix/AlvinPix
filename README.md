@@ -1,4 +1,4 @@
-# <h1 align="ringht"><b>Hi visitor, I'm > AlvinPix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="ringht"><b>Hi visitor, I'm > AlvinPix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="ringht">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=23&pause=1000&color=F7C4B1&vCenter=true&width=435&lines=%24.%2FUSR%2FBIN%2FWHOAMI;%3E+ALVINPIX+-+PX" alt="Typing SVG" /></a></p>
 🔭 I’m currently working on [Ghost-script](https://github.com/AlvinPix/Ghost-script.git)<br>🔭 I’m currently working on [Dotfiles](https://github.com/AlvinPix/dotfiles.git)<br>🤔 I’m looking for help with the following languages ​​Python, bash shell, CSS, HTML<br>🌱 I’m currently learning ​​Python, bash shell, CSS, HTML<br>💬 Ask me about: > Linux distributions like Debian, Kali linu, Arch, Ubuntu<br>⚡ Fun fact: > Why don't scientists trust atoms? - Because they make up everything!<br>💀 Fun fact: > Why don't skeletons fight each other? - They don't have the guts!<br>😄 Pronouns: > usr/bin/whoami <br>📢 Pronouns: > rm -rf /<br>📫 How to reach me: > Devnull@gmail <br>☕ Drink coffee<br>🎉 CONGRATULATIONS ON READING THE README<br>
@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alvin.gonzalez.12139) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvinpxgonzalez) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alvinpix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlvinPix) 
 
-# 💻 Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:

@@ -1,6 +1,5 @@
 <h1 align="ringht"><b>Hi visitor, I'm > AlvinPix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="ringht">
-  
+<p align="ringht"><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&color=13F700&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%3E+AlvinPix+-+Px" alt="Typing SVG" /></a><br>
 🔭 I’m currently working on [Ghost-script](https://github.com/AlvinPix/Ghost-script.git)<br>🔭 I’m currently working on [Dotfiles](https://github.com/AlvinPix/dotfiles.git)<br>🤔 I’m looking for help with the following languages ​​Python, bash shell, CSS, HTML<br>🌱 I’m currently learning ​​Python, bash shell, CSS, HTML<br>💬 Ask me about: > Linux distributions like Debian, Kali linu, Arch, Ubuntu<br>⚡ Fun fact: > Why don't scientists trust atoms? - Because they make up everything!<br>💀 Fun fact: > Why don't skeletons fight each other? - They don't have the guts!<br>😄 Pronouns: > usr/bin/whoami <br>📢 Pronouns: > rm -rf /<br>📫 How to reach me: > Devnull@gmail <br>☕ Drink coffee<br>🎉 CONGRATULATIONS ON READING THE README<br>
 

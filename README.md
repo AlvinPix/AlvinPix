@@ -4,5 +4,4 @@
 <div align="center">
 <img src="![](https://github-readme-stats.vercel.app/api?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)" />
 <img src="![](https://github-readme-streak-stats.herokuapp.com/?user=AlvinPix&theme=tokyonight&hide_border=false)" />
-<img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" />
-</div>
+<img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" /></div>

@@ -8,4 +8,5 @@
 </div><br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" height="100" alt="Snake animation" /></div>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" height="100" alt="Snake animation"/>
+</div>

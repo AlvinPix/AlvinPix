@@ -9,3 +9,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=3000&center=true&width=440&lines=Trophies" alt="Typing SVG" /></a></p>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AlvinPix&theme=algolia&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy"/>
+</div>

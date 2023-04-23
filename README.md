@@ -6,7 +6,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top langs"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinPix&theme=tokyonight&hide_border=false" height="150" alt="streak stats"/>
 </div><br>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" height="150" alt="Snake animation"/>
 </div>

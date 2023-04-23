@@ -5,8 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top langs"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinPix&theme=tokyonight&hide_border=false" height="150" alt="streak stats"/>
-</div>
-
+</div><br>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=3000&center=true&width=440&lines=Github+trophies" alt="Typing SVG" /></a></p>

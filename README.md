@@ -21,7 +21,7 @@ In constant learning, passionate about computing, automating things and creating
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 
-<img src="https://thumbs.gfycat.com/LankyFluffyGlobefish.webp" width ="100"> <img src="https://thumbs.gfycat.com/AmusedGlisteningCassowary.webp" width ="100"> <img src="https://thumbs.gfycat.com/HardWelllitGentoopenguin.webp" width ="100"> <img src="https://thumbs.gfycat.com/EquatorialUncommonIsabellineshrike.webp" width ="100"> <img src="https://thumbs.gfycat.com/InbornConcreteGlowworm.webp" width ="100"> <img src="https://thumbs.gfycat.com/CourteousWaryBrownbutterfly.webp" width ="100">
+<img src="https://thumbs.gfycat.com/LankyFluffyGlobefish.webp" width ="100"> <img src="https://thumbs.gfycat.com/AmusedGlisteningCassowary.webp" width ="100"> <img src="https://thumbs.gfycat.com/HardWelllitGentoopenguin.webp" width ="100"> <img src="https://thumbs.gfycat.com/InbornConcreteGlowworm.webp" width ="100"> <img src="https://thumbs.gfycat.com/CourteousWaryBrownbutterfly.webp" width ="100">
 
 
 

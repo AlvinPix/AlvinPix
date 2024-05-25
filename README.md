@@ -1,6 +1,6 @@
 ## Hi there I'm [AlvinPix](https://github.com/AlvinPix) 👋
 
-<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<img width="17%" align="right" alt="Github" src="https://static.wikia.nocookie.net/shadowfight/images/8/8a/Shadow%27s_Descendant_Real.png/revision/latest/scale-to-width/360?cb=20230519084818" />
 
 In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with Debian-based distributions.
 

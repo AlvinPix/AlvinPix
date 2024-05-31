@@ -1,6 +1,6 @@
 ## Hi there I'm [AlvinPix](https://github.com/AlvinPix) 👋
 
-![visits](https://komarev.com/ghpvc/?username=your-github-AlvinPix&style=for-the-badge)
+![visits](https://komarev.com/ghpvc/?username=your-github-AlvinPix&style=for-the-badge&color=red)
 
 <img width="25%" align="right" alt="Github" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 

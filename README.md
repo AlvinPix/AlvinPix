@@ -8,6 +8,7 @@ In constant learning, passionate about computing, automating things and creating
 - 📚 I’m currently learning Bash (Bourne Again SHell)
 - 📫 How to reach me: [Facebook](https://facebook.com/alvin.gonzalez.12139) [Instagram](https://instagram.com/alvinpx_271) [Tiktok](https://tiktok.com/@alvinpix) [Youtube](https://youtube.com/@AlvinPix)
 - 🤔 Explore new vulnerabilities and develop software fixes
+- 🏆 Reach 100 stars in my git
 
 ## 🛠  Tech Stack
 

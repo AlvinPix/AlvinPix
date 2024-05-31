@@ -1,7 +1,6 @@
-<img width="10%" align="center" alt="luffy" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" />
-
 ## Hi there I'm [AlvinPix](https://github.com/AlvinPix) 👋
 
+<img width="10%" align="center" alt="luffy" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" />
 <img width="25%" align="right" alt="Github" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 
 In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with Debian-based distributions.

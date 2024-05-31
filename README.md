@@ -2,7 +2,7 @@
 
 <img width="25%" align="right" alt="Github" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 
-In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with Debian-based distributions.
+In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with Debian-based distributions and arch.
 
 - 🔭 I’m currently a student
 - 📚 I’m currently learning Bash (Bourne Again SHell) and python
